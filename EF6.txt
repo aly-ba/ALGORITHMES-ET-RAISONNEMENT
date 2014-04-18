@@ -1,0 +1,17 @@
+info:
+rd :
+http://msdn.microsoft.com/fr-fr/library/system.data.entity.infrastructure.dbentityentry(v=vs.113).aspx
+http://msdn.microsoft.com/fr-fr/library/system.data.entitystate(v=vs.110).aspx
+rep:
+
+Ajotuer(e)
+  Si TesterExist(e)
+  Sinon Ajouter(e)
+  Fin
+Retourner collection.
+
+//delete
+Entity To Delete
+	Id to Delete
+retourner Colelction
+ 

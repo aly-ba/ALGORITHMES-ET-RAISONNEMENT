@@ -1,0 +1,11 @@
+pour i de dans changreTracker.Tries()
+      WhereClause(
+        e => e.Entity est IAuditInfo ET
+        e .State == EntityState.Added)  OU
+        e .State == EntityState.Modifier)
+
+      IAuditInfo e = (IAuditInfo) entry.Entity.
+      SI  entry.State == EntityState.Added)
+        e.DateDeCreation = DateTime.Now
+      SINON   
+        e.DateDeModification = DateTime.Now

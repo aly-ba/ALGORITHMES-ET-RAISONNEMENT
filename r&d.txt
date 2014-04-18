@@ -1,0 +1,3 @@
+Propriété DbContext.ChangeTracker:
+notes :
+Fournit l'accès aux fonctionnalités du contexte relatives au suivi des modifications d'entités.

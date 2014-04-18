@@ -1,0 +1,3 @@
+http://msdn.microsoft.com/en-us/library/hh829507(v=vs.113).aspx
+http://msdn.microsoft.com/fr-fr/library/system.data.entity.modelconfiguration.configuration.manytomanyassociationmappingconfiguration.mapleftkey(v=vs.113).aspx
+http://msdn.microsoft.com/fr-fr/library/system.data.entity.modelconfiguration.configuration.manytomanyassociationmappingconfiguration.maprightkey(v=vs.113).aspx
