@@ -1,0 +1,3 @@
+﻿https://code.google.com/p/nlipsum/
+
+http://msdn.microsoft.com/fr-fr/library/system.data.entity.modelconfiguration.conventions.pluralizingtablenameconvention(v=vs.113).aspx

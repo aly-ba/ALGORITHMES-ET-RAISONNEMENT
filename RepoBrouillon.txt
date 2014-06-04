@@ -1,0 +1,11 @@
+//GetSpeakers
+  Collections(session)
+    Select (sessoion =>session.Speak )
+    .Disctinct().Select(s =>
+           new Speaker {
+			Id = s.Id,
+                        FirstName = s.FirstName,
+                        LastName = s.LastName,
+                        ImageSource =s .ImageSource,
+
+                        });

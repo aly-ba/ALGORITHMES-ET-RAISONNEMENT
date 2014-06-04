@@ -1,0 +1,11 @@
+http://www.mrdoob.com/projects/harmony/index.html
+http://expressjs.com/
+http://jade-lang.com/
+http://embeddedjs.com/
+http://www.curioos.com/(y'a des truques intéressants les mecs sur ce site,
+je sais comment l'implémenter).
+https://github.com/kirbysayshi/vash(Bon , c'est le view Engine que j'ai retenue, 
+les autres sont puissants vash est adapté aux projets et il a une syntaxe
+proche de razor). 
+Pour le Documentation: le Github, en lien.
+http://www.fsmaghreb.org/
